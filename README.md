@@ -15,3 +15,5 @@ test:
 </pre>
 
 Enfin pour ne pas avoir de soucis dans la base de données en mémoire, il faut utiliser la gem `gem 'memory_test_fix'` qui permet d'effectuer les migrations à la volée.
+
+Pour suivre cet excellent tuto, rendez-vous sur le site de [Grafikart](https://www.grafikart.fr/formations/ruby-on-rails/rspec-unit-test)
